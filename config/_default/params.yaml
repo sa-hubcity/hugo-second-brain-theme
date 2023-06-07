@@ -15,10 +15,10 @@ appearance:
 marketing:
   seo:
     site_type: Project
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo notes theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    local_business_type: 'Support Group'
+    org_name: 'Sexaholics Anonymous'
+    description: 'A group focused on overcoming sexual addiction'
+    twitter: 
   analytics:
     google_analytics: ''
     baidu_tongji: ''
