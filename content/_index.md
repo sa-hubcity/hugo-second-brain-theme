@@ -5,7 +5,7 @@ toc: false
 
 image:
   filename: pexels-gareth-davies-910411.jpg
-  caption: NASA
+  caption: Sunrise over hills
 ---
 
 Welcome to the website of the local group of Sexaholics Anonymous in the Hub City. 
