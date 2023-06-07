@@ -81,6 +81,7 @@ features:
       category: ''
       category_id: ''
   search:
+    enable: false
     provider: wowchemy
     algolia:
       app_id: ''
