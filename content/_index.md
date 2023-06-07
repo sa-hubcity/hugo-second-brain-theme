@@ -4,7 +4,7 @@ date: 2022-09-24
 toc: false
 
 image:
-  filename: covers/pexels-gareth-davies-910411.jpg
+  filename: covers/sunrise-small.jpg
 ---
 
 Welcome to the website of the local group of Sexaholics Anonymous in the Hub City. 
