@@ -1,5 +1,5 @@
 ---
-title: &#f185; Sexaholics Anonymous - Hattiesburg &#f185;
+title: :sunrise_over_mountains: Sexaholics Anonymous - Hattiesburg :sunrise_over_mountains:
 date: 2022-09-24
 toc: false
 
