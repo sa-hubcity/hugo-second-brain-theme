@@ -1,5 +1,5 @@
 ---
-title: Sexaholics Anonymous - Hattiesburg 
+title: &#f185; Sexaholics Anonymous - Hattiesburg &#f185;
 date: 2022-09-24
 toc: false
 
