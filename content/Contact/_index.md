@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
-title: What is it like to attend a meeting?
-linktitle: What is it like to attend a meeting?
-summary: Learn what it is like to attend an SA meeting.
+title: Contact
+linktitle: Contact
+summary: How to get a hold of the local SA group
 weight: 3
 ---
 If you'd like to hear more about the group, or about Sexaholics Anonymous more generally, please reach out via text, phone, or email. 
