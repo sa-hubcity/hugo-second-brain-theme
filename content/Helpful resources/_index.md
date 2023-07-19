@@ -10,7 +10,7 @@ date: '2018-09-09T00:00:00Z'
 toc: false
 ---
 ### Website
-https://www.sa.org (Official SA Website)  
+https://www.sa.org (Official SA Website. Our group does not speak for SA as a whole as each SA group is autonomous)  
 
 ### Literature
 SA literature can be found in [the SA online store](https://www.sexaholics.org/store/index.php?cPath=28). The core SA books are [Sexaholics Anonymous](https://www.sexaholics.org/store/product_info.php?cPath=25&products_id=32), more commonly known as "The White Book" and [Step into Action](https://www.sexaholics.org/store/product_info.php?cPath=25&products_id=78). The White Book can also be purchased in-person at the meeting, at the [Pine Grove bookstore](https://www.pinegrovetreatment.com/addiction-literature-book-store/), or as an E-book via [Amazon](https://www.amazon.com/dp/B08BWSLCDC).
