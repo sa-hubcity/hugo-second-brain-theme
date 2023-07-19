@@ -11,7 +11,7 @@ toc: false
 ---
 
 ### Literature
-SA literature can be found in [the SA store](https://www.sexaholics.org/store/index.php?cPath=28). The core SA books are [Sexaholics Anonymous](https://www.sexaholics.org/store/product_info.php?cPath=25&products_id=32), more commonly known as "The White Book" and [Step into Action](https://www.sexaholics.org/store/product_info.php?cPath=25&products_id=78). The White Book can also be purchased in-person at the meeting, at the [Pine Grove bookstore](https://www.pinegrovetreatment.com/addiction-literature-book-store/), or as an E-book via [Amazon](https://www.amazon.com/dp/B08BWSLCDC).
+SA literature can be found in [the SA online store](https://www.sexaholics.org/store/index.php?cPath=28). The core SA books are [Sexaholics Anonymous](https://www.sexaholics.org/store/product_info.php?cPath=25&products_id=32), more commonly known as "The White Book" and [Step into Action](https://www.sexaholics.org/store/product_info.php?cPath=25&products_id=78). The White Book can also be purchased in-person at the meeting, at the [Pine Grove bookstore](https://www.pinegrovetreatment.com/addiction-literature-book-store/), or as an E-book via [Amazon](https://www.amazon.com/dp/B08BWSLCDC).
 
 A bunch of great pamphlets can be [downloaded for free](https://www.sa.org/literature/pamphlets/). Some that we think deserve particular mention are ["To the Newcomer"](https://www.sa.org/w/wp-content/uploads/newcomer.pdf) and ["Why Working the Steps is Important"](https://www.sa.org/w/wp-content/uploads/WhyWorkingTheStepsPamphlet.pdf).
 

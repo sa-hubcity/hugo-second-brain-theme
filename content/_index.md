@@ -25,5 +25,5 @@ As a group, we meet weekly on Monday mornings at 7:00am. We are a new group, but
 ## How to get involved
 If you'd like to hear more about the group, or about Sexaholics Anonymous more generally, please reach out via text, phone, or email. 
 
-Text and Phone (preferred): 601-909-5292  
-Email: sa.hubcity@gmail.com
+**Text and Phone (preferred):** 601-909-5292  
+**Email:** sa.hubcity@gmail.com
