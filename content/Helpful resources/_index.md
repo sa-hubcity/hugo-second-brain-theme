@@ -1,8 +1,8 @@
 ---
 # Title, summary, and page position.
-title: 数据结构
-linktitle: 数据结构
-summary: Notes on Python data structures.
+title: Helpful Resources
+linktitle: Helpful Resources
+summary: Links to various tools and resources that can help with sex/lust/porn addiction
 weight: 2
 
 # Page metadata.
