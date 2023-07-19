@@ -15,7 +15,7 @@ Currently, our only meeting is on Mondays at 7:00 AM. It runs until 8:00 AM and 
 
 SA is different from other therapeutic or church-based groups as it does not have a person who directs the sharing and we avoid "Cross-talk," which for our group means extensively commenting on another person's share or giving advice. In other words, we come and share, without feeling like we are being judged or analyzed. Usually after sharing the most elaborate feedback you will get will be "Thank you for sharing." That doesn't mean there is never a place within the fellowship of SA to have deeper conversations, to ask another person to share their experience, or to give feedback, but that doesn't take place in the meeting itself. Some of us have these conversations after the meeting or by phone during the week.
 
-If you'd like you can review the meeting format that we generally follow at each meeting {{% staticref "uploads/Sunlight of the Spirit Group - Meeting Format (no readings).pdf" "newtab" %}}here{{% /staticref %}}
+If you'd like you can review the meeting format that we generally follow at each meeting at the following link: {{% staticref "uploads/Sunlight of the Spirit Group - Meeting Format (no readings).pdf" "newtab" %}}**Meeting format**{{% /staticref %}}
 
 
 ### How much does it cost?
