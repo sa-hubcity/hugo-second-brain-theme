@@ -1,5 +1,5 @@
 ---
-title: 🌄 Sexaholics Anonymous - Hattiesburg
+title: 🌄 Hub City SA
 date: 2022-09-24
 toc: false
 
