@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: Contact
-linktitle: Contact
+title: 📱 Contact
+linktitle: 📱 Contact
 summary: How to get a hold of the local SA group
 weight: 3
 ---

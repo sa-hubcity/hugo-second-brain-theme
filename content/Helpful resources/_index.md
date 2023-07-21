@@ -24,6 +24,6 @@ The historical and practical foundation of the SA program is found in [Alcoholic
 [Here](https://www.sa.org/w/wp-content/uploads/approvedlit.pdf) is a list of all SA-approved literature.
 
 ### Groups
-Besides our group, there are some other groups in the [State of Mississippi](https://www.sa.org/f2f/United-States-of-America/Mississippi/).
+Besides our group, there are some other SA groups in the [State of Mississippi](https://www.sa.org/f2f/United-States-of-America/Mississippi/).
 
 There are also Zoom meetings, with an unofficial list of meetings held worldwide available [here](https://nextmeeting.org/275EE30A-220F-4FF2-A950-0ED2B5E4C257.html) and a smaller, official list of phone meetings available [here](https://www.sa.org/meetings_phone/)
