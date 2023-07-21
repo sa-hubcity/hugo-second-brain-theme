@@ -7,7 +7,7 @@ image:
   filename: covers/pexels-gareth-davies-cropped.jpg
 ---
 
-**Welcome to the website of the local group of Sexaholics Anonymous in Hattiesburg Mississippi.**
+**Welcome to the website of the local group of Sexaholics Anonymous in Hattiesburg, Mississippi.**
   
 
 ## Who we are

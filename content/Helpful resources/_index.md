@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: Helpful Resources
-linktitle: Helpful Resources
+title: 📖 Helpful Resources
+linktitle: 📖 Helpful Resources
 summary: Links to various tools and resources that can help with sex/lust/porn addiction
 weight: 2
 
