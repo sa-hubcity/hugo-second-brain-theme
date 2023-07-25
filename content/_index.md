@@ -4,7 +4,7 @@ date: 2022-09-24
 toc: false
 
 image:
-  filename: covers/vpexels-simon-berger-1323550.jpg
+  filename: covers/pexels-simon-berger-1323550.jpg
 ---
 
 **Welcome to the website of the local group of Sexaholics Anonymous in Hattiesburg, Mississippi.**
