@@ -1,7 +1,7 @@
 ---
 # Title, summary, and page position.
-title: ❓ Is SA right for me?
-linktitle: ❓ Is SA right for me?
+title: ❔ Is SA right for me?
+linktitle: ❔ Is SA right for me?
 summary: Some questions to reflect on about problematic sexual obsession and acting out.
 weight: 2
 
