@@ -14,16 +14,16 @@ appearance:
 
 marketing:
   seo:
-    site_type: Project
-    local_business_type: 'Support Group'
+    site_type: Organization
+    local_business_type: 
     org_name: 'Sexaholics Anonymous'
-    description: 'A group focused on overcoming sexual addiction'
+    description: 'A support group focused on overcoming sexual addiction'
     twitter: 
   analytics:
     google_analytics: ''
     baidu_tongji: ''
   verification:
-    google: ''
+    google: 'google-site-verification=zQYUK82g-wV6OHQB9t7jLM1qpSr1FRwe8zpPgm5rgNc'
     baidu: ''
 
 # Site header
