@@ -15,7 +15,7 @@ image:
 
 In other words, we are a group of people who are discovering and sharing a solution to our harmful addictions to lust, sex and pornography. With this solution, we no longer have to act out on our addictions and can experience freedom and recovery.
   
-<font size="2">*Adapted with permission from The AA Grapevine, Inc. SA adaptation © 1982, 1989, 2001 SA Literature. Reprinted with permission of SA Literature. </font> 
+<font size="2">*© 1997-2008 Sexaholics Anonymous Inc. Reprinted with permission of SA Literature. </font> 
 
 
 ## What we do
@@ -27,3 +27,17 @@ If you'd like to hear more about the group, or about Sexaholics Anonymous more g
 
 **Text and Phone (preferred):** 601-909-5292  
 **Email:** sa.hubcity@gmail.com
+
+
+#### Sexaholics Anonymous: Statement of Principle
+We have a solution. We don't claim it's for everybody, but for us, it works. If you identify with us and think you may share our problem, we'd like to share our solution with you (Sexaholics Anonymous, 2).
+
+In defining sobriety, we do not speak for those outside Sexaholics Anonymous. We can only speak for ourselves. Thus, for the married sexaholic, sexual sobriety means having no form of sex with self or with persons other than the spouse. In SA's sobriety definition, the term "spouse" refers to one’s partner in a marriage between a man and a woman. For the unmarried sexaholic, sexual sobriety means freedom from sex of any kind. And for all of us, single and married alike, sexual sobriety also includes progressive victory over lust (Sexaholics Anonymous 191-192).
+<font size = "2">Passed by the General Delegate Assembly February 2010</font>
+
+The only requirement for SA membership is a desire to stop lusting and become sexually sober according to the SA sobriety definition. Any two or more sexaholics gathered together for SA sobriety according to the SA sobriety
+definition may call themselves an SA group.
+
+Meetings that do not adhere to and follow Sexaholics Anonymous' sobriety statement as set forth in the foregoing Statement of Principle adopted by the General Delegate Assembly in 2010 are not SA meetings and shall not call themselves SA meetings.
+
+<font size = "2"> Addendum to the Statement of Principle passed by the General Delegate Assembly on July 2016. </font>

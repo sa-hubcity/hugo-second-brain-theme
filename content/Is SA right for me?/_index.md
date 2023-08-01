@@ -23,3 +23,5 @@ The SA Pamphlet, [To the Newcomer](https://www.sa.org/w/wp-content/uploads/newco
 If these questions ring true, and you're willing to seek help, SA may be right for you.
 
 If you're interested, [the SA website](https://www.sa.org/test/) has a longer "test" with more questions to think about. You do not have to say "yes" to every question, but if you are addicted you'll likely see many of your difficulties and consequences highlighted within them.
+
+

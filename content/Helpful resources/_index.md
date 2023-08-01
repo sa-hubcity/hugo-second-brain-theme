@@ -27,3 +27,9 @@ The historical and practical foundation of the SA program is found in [Alcoholic
 Besides our group, there are some other SA groups in the [State of Mississippi](https://www.sa.org/f2f/United-States-of-America/Mississippi/).
 
 There are Zoom meetings, with an unofficial list of meetings held worldwide available [here](https://nextmeeting.org/275EE30A-220F-4FF2-A950-0ED2B5E4C257.html), as well as phone meetings, available on a smaller, official list available [here](https://www.sa.org/meetings_phone/).
+
+
+
+
+##### Note
+<font size="2">*According to Tradition Six, any non-SA content displayed on this website is offered as public information. Displaying this content does not imply that SA endorses this content,  or entities associated with it. Please be aware that we are not responsible for a linked site’s privacy policy, tracking technology, computer security, or intellectual property protection. Additionally, we cannot attest to the accuracy, relevancy, timeliness, or completeness of information provided by any linked site. Linking to another website does not constitute an endorsement by SA.*</font>
