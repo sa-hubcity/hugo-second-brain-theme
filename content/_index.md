@@ -32,11 +32,12 @@ If you'd like to hear more about the group, or about Sexaholics Anonymous more g
 **Email:** sa.hubcity@gmail.com
   
   <br>
-  
+
 ## Sexaholics Anonymous: Statement of Principle
 We have a solution. We don't claim it's for everybody, but for us, it works. If you identify with us and think you may share our problem, we'd like to share our solution with you (Sexaholics Anonymous, 2).
 
 In defining sobriety, we do not speak for those outside Sexaholics Anonymous. We can only speak for ourselves. Thus, for the married sexaholic, sexual sobriety means having no form of sex with self or with persons other than the spouse. In SA's sobriety definition, the term "spouse" refers to one’s partner in a marriage between a man and a woman. For the unmarried sexaholic, sexual sobriety means freedom from sex of any kind. And for all of us, single and married alike, sexual sobriety also includes progressive victory over lust (Sexaholics Anonymous 191-192).
+
 <font size = "2">Passed by the General Delegate Assembly February 2010</font>
 
 The only requirement for SA membership is a desire to stop lusting and become sexually sober according to the SA sobriety definition. Any two or more sexaholics gathered together for SA sobriety according to the SA sobriety
