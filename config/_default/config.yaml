@@ -62,10 +62,6 @@ imaging:
   quality: 75
   anchor: smart
 timeout: 600000
-taxonomies:
-  tag: tags
-  category: categories
-  author: authors
 markup:
   _merge: deep
 related:
