@@ -12,9 +12,9 @@ image:
   <br>
 
 ## Who we are
-"[Sexaholics Anonymous](https://www.sa.org) is a fellowship of men and women who share their experience, strength, and hope with each other that they may solve their common problem and help others to recover. The only requirement for membership is a desire to stop lusting and become sexually sober. There are no dues or fees for SA membership; we are self-supporting through our own contributions. SA is not allied with any sect, denomination, politics, organization, or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. Our primary purpose is to stay sexually sober and help others to achieve sexual sobriety."*
+*"[Sexaholics Anonymous](https://www.sa.org) is a fellowship of men and women who share their experience, strength, and hope with each other that they may solve their common problem and help others to recover. The only requirement for membership is a desire to stop lusting and become sexually sober. There are no dues or fees for SA membership; we are self-supporting through our own contributions. SA is not allied with any sect, denomination, politics, organization, or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. Our primary purpose is to stay sexually sober and help others to achieve sexual sobriety."*
 
-<font size="2">*© 1997-2008 Sexaholics Anonymous Inc. Reprinted with permission of SA Literature. </font> 
+<font size="2">© 1997-2008 Sexaholics Anonymous Inc. Reprinted with permission of SA Literature. </font> 
 
 In other words, we are a group of people who are discovering and sharing a solution to our harmful addictions to lust, sex and pornography. With this solution, we no longer have to act out on our addictions and can experience freedom and recovery.
 
