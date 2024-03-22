@@ -30,5 +30,4 @@ There are Zoom meetings, with an unofficial list of meetings held worldwide avai
 
   <br>
 
-##### Note
-<font size="2">*According to Tradition Six, any non-SA content displayed on this website is offered as public information. Displaying this content does not imply that SA endorses this content,  or entities associated with it. Please be aware that we are not responsible for a linked site’s privacy policy, tracking technology, computer security, or intellectual property protection. Additionally, we cannot attest to the accuracy, relevancy, timeliness, or completeness of information provided by any linked site. Linking to another website does not constitute an endorsement by SA.*</font>
+
