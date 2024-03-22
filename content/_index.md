@@ -1,5 +1,5 @@
 ---
-title: 🌄 Hub City SA 🌄
+title: Hub City Sexaholics Anonymous
 date: 2022-09-24
 toc: false
 
